@@ -1,0 +1,23 @@
+.Article {
+    display: inline-block;
+    margin: 10px 20px;
+    width: 97%;
+    height: 100%;
+    /*border: 1px solid black;*/
+    text-align: center;
+    overflow: hidden;
+
+}
+.Article img {
+    float: left;
+    margin: 20px 15px;
+}
+.Title {
+    font-size: 20px;
+}
+.Text {
+    text-align: left;
+}
+.Text br {
+    display: none;
+}
